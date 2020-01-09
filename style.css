@@ -1,0 +1,12 @@
+
+.navbar {
+background-color:orange;
+border-color:orange;
+display:flex;
+flex-flow: row wrap;
+font-weight:bold;
+padding-top:2em;
+justify-content:center;
+justify-content:space-around;
+}
+
